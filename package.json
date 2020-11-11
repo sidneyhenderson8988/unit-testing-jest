@@ -1,0 +1,23 @@
+{
+  "name": "unit-test-jest",
+  "version": "1.0.0",
+  "description": "Code to be used to start the Quiz 10 exercise.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidneyhenderson8988/unit-testing-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidneyhenderson8988/unit-testing-jest/issues"
+  },
+  "homepage": "https://github.com/sidneyhenderson8988/unit-testing-jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
